@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818531450295",
+    "project_id": "mezunapp-b8d62",
+    "storage_bucket": "mezunapp-b8d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818531450295:android:bad8d14b8d5e29bd9fbc32",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818531450295-3mbukgoo5jrjb2oudgpnki3ml5b7br80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnUUkK_ReRPPKWupWM7bciphx70c3JbsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818531450295-3mbukgoo5jrjb2oudgpnki3ml5b7br80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
